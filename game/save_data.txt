@@ -1,0 +1,2 @@
+highscore=3
+maxlevel=1
